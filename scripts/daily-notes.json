@@ -1,0 +1,126 @@
+[
+  {
+    "text": "2025 年",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "预览 Office 文档方案对比",
+        "link": "/daily-notes/issue-55"
+      },
+      {
+        "text": "Google Adsense 地址验证",
+        "link": "/daily-notes/issue-54"
+      },
+      {
+        "text": "本地部署 DeepSeek 大模型",
+        "link": "/daily-notes/issue-52"
+      }
+    ]
+  },
+  {
+    "text": "2024 年",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "魅族 21 Pro 安装 Google 服务",
+        "link": "/daily-notes/issue-51"
+      },
+      {
+        "text": "从 VSCode 迁移到 Cursor",
+        "link": "/daily-notes/issue-50"
+      },
+      {
+        "text": "漫画 APP 资源汇总",
+        "link": "/daily-notes/issue-48"
+      },
+      {
+        "text": "在 GitHub Actions 中触发其他仓库的 Actions",
+        "link": "/daily-notes/issue-47"
+      }
+    ]
+  },
+  {
+    "text": "2023 年",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "使用 shell 脚本复制项目信息到剪切板",
+        "link": "/daily-notes/issue-44"
+      },
+      {
+        "text": "使用 shell 脚本检查并配置 git user 信息",
+        "link": "/daily-notes/issue-35"
+      }
+    ]
+  },
+  {
+    "text": "2022 年",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "搭建青龙定时任务管理面板",
+        "link": "/daily-notes/issue-34"
+      },
+      {
+        "text": "ShadowSocks PAC 用户自定规则",
+        "link": "/daily-notes/issue-33"
+      },
+      {
+        "text": "修复谷歌翻译失效",
+        "link": "/daily-notes/issue-30"
+      },
+      {
+        "text": "在 Github Actions 环境变量中传递数组或对象",
+        "link": "/daily-notes/issue-28"
+      },
+      {
+        "text": "常用搜索技巧",
+        "link": "/daily-notes/issue-27"
+      }
+    ]
+  },
+  {
+    "text": "2021 年",
+    "collapsed": false,
+    "items": [
+      {
+        "text": ".npmrc 学习笔记",
+        "link": "/daily-notes/issue-24"
+      },
+      {
+        "text": "Plop 实战笔记",
+        "link": "/daily-notes/issue-22"
+      },
+      {
+        "text": "解决 Github Support for password",
+        "link": "/daily-notes/issue-21"
+      },
+      {
+        "text": "修改 DNS 解决 Github 资源加载失败",
+        "link": "/daily-notes/issue-16"
+      }
+    ]
+  },
+  {
+    "text": "2020 年",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "获取当前 git 分支",
+        "link": "/daily-notes/issue-11"
+      },
+      {
+        "text": "语义化版本控制",
+        "link": "/daily-notes/issue-10"
+      },
+      {
+        "text": "package.json 相关知识",
+        "link": "/daily-notes/issue-9"
+      },
+      {
+        "text": "使用 jsdelivr 加速 Github 仓库资源",
+        "link": "/daily-notes/issue-7"
+      }
+    ]
+  }
+]
