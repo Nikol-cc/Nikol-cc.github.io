@@ -7,14 +7,14 @@ const data = [
   {
     items: [
       {
-        img: withBase('/sponsor/wechat-color.webp')
+        img: withBase('/sponsor/wechat-nikol.jpg')
       }
     ]
   },
   {
     items: [
       {
-        img: withBase('/sponsor/alipay-color.webp')
+        img: withBase('/sponsor/alipay-nikol.jpg')
       }
     ]
   }
