@@ -65,7 +65,6 @@ function generateIndexFile(data) {
 
 日常笔记记录（零零散散啥都记系列）
 
-> 内容整理自公开技术笔记，已移除前端专题，保留通用开发、系统与工具实践。
 
 共计 **${total}** 篇（上次更新: ${formatTime(latest)}）
 
