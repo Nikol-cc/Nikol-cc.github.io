@@ -7,25 +7,14 @@ const sidebarDailyNotes: DefaultTheme.SidebarItem[] =
 export const sidebar: DefaultTheme.Config['sidebar'] = {
   '/arm-linux-fpga/': [
     {
-      text: 'ARM',
+      text: 'RTOS 对比',
       collapsed: false,
       items: [
-        { text: '方向总览', link: '/arm-linux-fpga/' },
-        { text: 'ARM 平台与开发板', link: '/arm-linux-fpga/arm-linux' },
+        { text: '核心差异对比', link: '/arm-linux-fpga/' },
+        { text: '需要特别注意的差异', link: '/arm-linux-fpga/#需要特别注意的差异' },
+        { text: '选型建议', link: '/arm-linux-fpga/#选型建议' },
+        { text: '实际验证清单', link: '/arm-linux-fpga/#实际验证清单' },
       ],
-    },
-    {
-      text: 'Linux',
-      collapsed: false,
-      items: [
-        { text: 'Linux 系统实践', link: '/arm-linux-fpga/linux' },
-        { text: '嵌入式调试与 DMA', link: '/arm-linux-fpga/embedded-debug' },
-      ],
-    },
-    {
-      text: 'FPGA',
-      collapsed: false,
-      items: [{ text: 'FPGA 工程方向', link: '/arm-linux-fpga/fpga' }],
     },
   ],
   '/fe/': [

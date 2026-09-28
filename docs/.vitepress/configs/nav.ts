@@ -4,23 +4,7 @@ export const nav: DefaultTheme.Config['nav'] = [
   { text: '导航', link: '/nav', activeMatch: '^/nav' },
   {
     text: '嵌入式物语',
-    items: [
-      {
-        text: 'ARM',
-        items: [{ text: 'ARM 平台与开发板', link: '/arm-linux-fpga/arm-linux' }],
-      },
-      {
-        text: 'Linux',
-        items: [
-          { text: 'Linux 系统实践', link: '/arm-linux-fpga/linux' },
-          { text: '嵌入式调试与 DMA', link: '/arm-linux-fpga/embedded-debug' },
-        ],
-      },
-      {
-        text: 'FPGA',
-        items: [{ text: 'FPGA 工程方向', link: '/arm-linux-fpga/fpga' }],
-      },
-    ],
+    items: [{ text: 'RTOS 对比，核心差异', link: '/arm-linux-fpga/' }],
     activeMatch: '^/arm-linux-fpga',
   },
   { text: '嵌入式源码', link: '/analysis/', activeMatch: '^/analysis' },
