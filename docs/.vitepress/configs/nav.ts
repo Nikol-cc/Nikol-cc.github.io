@@ -45,6 +45,7 @@ export const nav: DefaultTheme.Config['nav'] = [
       {
         text: '踩坑记录',
         items: [
+          { text: 'swcsm 驱动交叉编译', link: '/pit/swcsm-cross-compile' },
           { text: '根文件系统同步', link: '/pit/rootfs' },
           { text: 'OpenSSH / OpenSSL 升级', link: '/pit/openssh' },
           { text: 'SSH 白名单防火墙', link: '/pit/firewall' },

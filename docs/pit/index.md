@@ -6,6 +6,7 @@ description: ARM Linux、驱动、DMA 和 RTOS 开发中的问题复盘
 
 这里记录嵌入式开发中容易重复发生的问题。每篇尽量保留现象、定位方法、修复动作和预防措施，方便在下一次板级调试时快速复用。
 
+- [OK3568 定制 RT 内核：swcsm 驱动交叉编译与加载验证](./swcsm-cross-compile)
 - [根文件系统同步：避免运行时目录和嵌套 rootfs](./rootfs)
 - [OpenSSH / OpenSSL 升级：先验证依赖再替换服务](./openssh)
 - [SSH 白名单防火墙：规则重建与失联保护](./firewall)
