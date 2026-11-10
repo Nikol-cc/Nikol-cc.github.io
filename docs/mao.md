@@ -15,7 +15,7 @@ aside: false
 
 ```sh:no-line-numbers
 吾志所向，一往无前。
-                                -- 一个持续折腾系统的工程师
+                                -- 一个只想躺平的小开发
 ```
 
 **About:**
